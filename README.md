@@ -336,7 +336,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **[🚀 Get Started Now](#-quick-start)** • **[⭐ Star This Repo](https://github.com/yourusername/musegen)** • **[🤝 Contribute](#-contributing)**
 
----
+----
 
 **Made with ❤️ by music lovers, for music lovers**
 
